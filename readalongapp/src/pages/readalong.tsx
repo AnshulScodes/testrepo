@@ -26,7 +26,7 @@ export function Readalong() {
                 </div>
                 <div id="results" className="w-1/4">
                     <div id="resultsContainer" className="text-center rounded-lg border-4 border-black pt-1 pb-3 pl-3 pr-3 mt-4 mb-4 mr-4">
-                        <p className="text-2xl underline">Results</p>
+                        <p className="text-2xl underline">Resultss</p>
                         <div id="resultBoxes" className="w-full ">
                             <div id="resultBox" className="rounded-lg flex items-center justify-center" style={{backgroundColor : '#737373'}}>
                                 <p className="text-white text-2xl">THE</p>
